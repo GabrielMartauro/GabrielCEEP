@@ -22,5 +22,19 @@ h1{
 
 header {
     text-align: center;
-    border-top: #f4d4c3;
+    padding-bottom: 20px;
+    border-right: 2px solid #9c1919;
+    border-bottom: 4px solid #9c1919;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 20px;
+    border-right: 2px solid #9c1919;
+    border-bottom: 4px solid #9c1919;
+    color: black;
 }
