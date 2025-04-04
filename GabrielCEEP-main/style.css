@@ -1,9 +1,25 @@
 body{
-    background-color: rgb(123, 21, 240);
+    background-color: #f4f4f4;
     font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0 ;
+    padding-top: 60px;
 }
 
 h1{
     font-size: 68px;
     color: rgb(170, 126, 211);
+}
+
+.conteiner {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px;
+    position: relative;
+}
+
+header {
+    text-align: center;
 }
